@@ -1,0 +1,3 @@
+first line of file_1
+second line of file_1
+third line of file_1

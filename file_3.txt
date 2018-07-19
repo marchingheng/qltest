@@ -1,3 +1,7 @@
 first line
 second line
 third line
+
+More text here
+Additional text here
+And some final text additions here
